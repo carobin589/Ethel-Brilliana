@@ -1,14 +1,15 @@
 /* css for timeline */
 h1 {
   color: blue;
+  font-family: 'League Script', cursive;
 }
-
 
 /* imported css */
 .timeline {
   list-style: none;
   padding: 20px 0 20px;
   position: relative;
+  font-family: 'Satisfy', cursive;
 }
 
 /* for timeline line */
@@ -18,7 +19,7 @@ h1 {
   position: absolute;
   content: " ";
   width: 3px;
-  background-color: black;
+  background-color: #eeeeee;
   left: 50%;
   margin-left: -1.5px;
 }
