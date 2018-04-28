@@ -1,7 +1,9 @@
 /* css for timeline */
 h1 {
-  color: blue;
+  color: black;
   font-family: 'League Script', cursive;
+  text-align: center;
+  font-size: 60 px;
 }
 
 /* imported css */
