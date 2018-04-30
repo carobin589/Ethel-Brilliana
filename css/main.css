@@ -1,7 +1,18 @@
 /* css for index page */
+h1 {
+  color: black;
+  font-family: 'League Script', cursive;
+  text-align: center;
+  font-size: 100px;
+}
+
+
 .title-image {
-  width: 100%;
-  height: auto;
+  max-width: 592px;
+  max-height: 768px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 div.desc{
@@ -9,7 +20,10 @@ div.desc{
     color: #fff;
     opacity: 0.5;
     position: relative;
-    width: 100%;
+    width: 592px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 blockquote {
@@ -34,4 +48,4 @@ display: block;
 font-size: 80%;
 text-align: right;
 color: white;
-} 
+}
