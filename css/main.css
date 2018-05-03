@@ -49,3 +49,16 @@ font-size: 80%;
 text-align: right;
 color: white;
 }
+
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
+
+.c-control {
+  font-size: 40px;
+  padding-top: 25%;
+}
+
+.carousel {
+  background-color: black;
+}
